@@ -3,7 +3,7 @@
     "bootstrap": "4.1.1"
   },
   "devDependencies": {
-    "lite-server": "2.3.0"
+    "lite-server": "2.6.1"
   },
   "scripts": {
     "start": "npm run lite",
